@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL [here]()
-- Live Site URL [here]()
+- Live Site URL [here](https://sreekanthjith.github.io/QR_code_Project/)
 
 ## My process
 
